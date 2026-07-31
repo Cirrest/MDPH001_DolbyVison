@@ -13,7 +13,7 @@
 4.添加自研映射配置及算法，调用GPU映射及解码HEVC。</br>
 5.全程色彩校准由自己的SpyderPro打酱油路过。。。</br>
 
-
+[适配MAID 01 DolbyAtmos模块](https://github.com/Cirrest/MDPH001_DolbyAtmos)</br>
 ###  *要求* 
 ***
 1.设备必须为水月雨MD-PH-001原厂ROM并已修补好Magisk。</br>
@@ -25,7 +25,7 @@
 1.经DRM HDCP的DolbyVison解码只会调用系统DRM，不会也永远不会支持非法的DRM支持</br>
 2.涉及杜比认证原因，仅模块本身进行GPL开源，不涉及Dolby、编码器、自研算法库开源。</br>
 3.设备硬件不支持仅通过HDR10+及自研算法映射DolbyVison至Rec.709RGB。</br>
-4.原厂底层显示链路写的稀烂，没有安全的nit调试线路，暂不添加适配HDR/SDR比率功能。</br>
+4.原厂底层显示链路写的稀烂，没有安全的nit调试线路，暂不添加适配动态HDR/SDR比率功能，观看DolbyVison视频请自行拉高亮度至最高。</br>
 6.模块免费，禁止任何形式商业化、收费、二改，所有文件均已打上数字水印。</br>
 7.欢迎宣传，转载请注明出处。</br>
 
