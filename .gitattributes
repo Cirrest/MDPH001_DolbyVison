@@ -1,0 +1,3 @@
+*.java linguist-language=java
+*.so linguist-language=java
+*.sh linguist-language=shell
