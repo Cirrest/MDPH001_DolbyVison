@@ -14,6 +14,7 @@
 5.全程色彩校准由自己的SpyderPro打酱油路过。。。</br>
 
 [适配MAID 01 DolbyAtmos模块](https://github.com/Cirrest/MDPH001_DolbyAtmos)</br>
+[自研算法演示](https://www.acfun.cn/v/ac18132438)</br>
 ###  *要求* 
 ***
 1.设备必须为水月雨MD-PH-001原厂ROM并已修补好Magisk。</br>
