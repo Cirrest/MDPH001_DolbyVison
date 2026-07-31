@@ -1,0 +1,6 @@
+id=md_ph_001_dolbyvision
+name=MD-PH-001 Dolby Vision
+version=1.0.0
+versionCode=10000
+author=Cirrest
+description=为水月雨MIAD 01设备添加DolbyVison解码支持。设备硬件不支持仅通过HDR10+及自研算法映射DolbyVison至Rec.709RGB。模块免费，禁止任何形式商业化、二改、收费，文件均已打上数字水印均可追溯。

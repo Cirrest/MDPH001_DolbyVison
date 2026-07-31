@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Included>
+    <Decoders>
+        <MediaCodec name="c2.dolby.decoder.hevc" type="video/dolby-vision">
+            <Limit name="size" min="64x64" max="4096x2176" />
+            <Limit name="alignment" value="2x2" />
+            <Limit name="block-size" value="16x16" />
+            <Limit name="block-count" range="1-34816" />
+            <Limit name="blocks-per-second" range="1-2088960" />
+            <Limit name="bitrate" range="1-100000000" />
+            <Limit name="frame-rate" range="1-60" />
+            <Feature name="adaptive-playback" />
+            <Limit name="concurrent-instances" max="1" />
+            <Limit name="performance-point-3840x2160" value="30" />
+            <Limit name="performance-point-1920x1080" value="60" />
+        </MediaCodec>
+    </Decoders>
+</Included>
