@@ -11,6 +11,7 @@
 2.系统开启声明支持Dolby Vision,HDR10,HLG,HDR10+。</br>
 3.添加手搓DVS服务，注册Codec2解码器。</br>
 4.添加自研映射配置及算法，调用GPU映射及解码HEVC。</br>
+5.全程色彩校准由自己的SpyderPro打酱油路过。。。</br>
 
 
 ###  *要求* 
@@ -32,7 +33,7 @@
 ***
 该模块保证不含格机脚本、远程遥测等危险操作/后门，安装前请核对SHA256及MD5以免刷到非本人制作模块。</br>
 ---
-<img width="800" height="800" alt="打赏作者，万分感谢" src="https://github.com/user-attachments/assets/456e042d-d526-4d44-825c-d702fa3167ff" />
+<img width="350" height="350" alt="打赏作者，万分感谢" src="https://github.com/user-attachments/assets/456e042d-d526-4d44-825c-d702fa3167ff" />
 
 ---
 [控制器使用Material Design 3(Material You)风格设计](https://m3.material.io/)
