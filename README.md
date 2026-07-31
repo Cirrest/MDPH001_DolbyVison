@@ -36,8 +36,5 @@
 ---
 <img width="540" height="600" alt="Stitch_20260801_003159" src="https://github.com/user-attachments/assets/537f6b0c-20cd-4856-9cae-a881205f62d5" />
 <img width="600" height="540" alt="Stitch_20260801_003226" src="https://github.com/user-attachments/assets/5ce7570e-e497-42dd-ab50-7a28b6102d6d" />
-
 <img width="350" height="350" alt="打赏作者，万分感谢" src="https://github.com/user-attachments/assets/456e042d-d526-4d44-825c-d702fa3167ff" />
 
----
-[控制器使用Material Design 3(Material You)风格设计](https://m3.material.io/)
